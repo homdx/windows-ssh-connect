@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"start-ssh"="C:\\Program Files\\PuTTY\\start-cmd-ssh.bat"
+
