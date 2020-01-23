@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"start-ssh"="C:\\windows-ssh-connect\\start-bash-ssh.cmd"
+

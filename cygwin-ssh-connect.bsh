@@ -1,0 +1,10 @@
+#!/bin/bash
+
+while true
+do
+	echo "Press [CTRL+C] to stop.."
+	date
+	ssh user@youserver -R localhost:3389:localhost:3389
+	echo reconnect to ssh
+	sleep 1
+done
